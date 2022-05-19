@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyShop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="myshop">MyShop</string>
+    <string name="checkedName">enter name</string>
+    <string name="checkedLatName">enter last name</string>
+    <string name="checkedPassword">enter password</string>
+    <string name="checkedConfirm">enter confirm</string>
+    <string name="checkedAgree">enter agree</string>
+    <string name="checkedEmail">enter email</string>
+    <string name="checkedMobile">enter mobile number</string>
+    <string name="checkedEmailCorrect">enter the correct email</string>
+    <string name="forgot_text">Enter your username and e-mail address we`ll \n send you email to reset your \n password</string>
+    <string name="read_storage_permission_dined">\"Oops, you just denied the permission storage. You can also allow it from settings \"</string>
+    <string name="settings">Settings</string>
+    <string name="completed_profile">completed profile</string>
+    <string name="exit_profile">exit profile</string>
+    <string name="product_description">Product Description</string>
+    <string name="mobile">Mobile</string>
+    <string name="stock_quantity">Stock Quantity</string>
+
+    <string-array name="currencyArray">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>BYN</item>
+        <item>RUB</item>
+    </string-array>
+</resources>
